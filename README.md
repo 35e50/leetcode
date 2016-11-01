@@ -1,2 +1,2 @@
 # Some Leetcode Solutions
-Including Algrithms by Python, few solutions by C, some Database and Shell solutions.
+Including Algrithms in Python, few solutions in C, some Database and Shell solutions.
